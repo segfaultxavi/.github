@@ -1,6 +1,6 @@
 # Symbol
 
-Welcome to the home of Symbol protocol.
+Welcome to the home of the Symbol protocol.
 
 <!--
 
